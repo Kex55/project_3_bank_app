@@ -16,6 +16,7 @@ const Business = () => {
         of credit cards on the market.
       </p>
 
+      <Button styles={`mt-10`} />
     </div>
   </section>
   )
